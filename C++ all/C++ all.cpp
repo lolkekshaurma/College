@@ -57,7 +57,10 @@ int main()
 	for (int i = 0; i < 32768; ++i) numbers[i] = rand() % (-1000 - 1000 + 1) + -1000; заполнить так можно
 
 
+	unigue_ptr указатель
+	std::unique_ptr<int> value = std::make_unique<int>();
 
+	ссылка должна на что то указывать указатель может указывать на null
 
 
 

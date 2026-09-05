@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="C++ all/C++ all.vcxproj" />
-  <Project Path="C++ Tasks/C++ Tasks.vcxproj" />
+  <Project Path="C++ all/C++ all.vcxproj" Id="670d896a-ed28-4899-99a5-690299650f96" />
+  <Project Path="C++ Tasks/C++ Tasks.vcxproj" Id="175c31b1-4cea-4b67-962f-531c9962155d" />
 </Solution>
